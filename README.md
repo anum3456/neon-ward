@@ -1,8 +1,6 @@
 # Neon Ward — A City Block, After Midnight
 
-A dense miniature cyberpunk city block built for the 3D Websites Hackathon: procedurally generated glowing towers, flickering neon signage, flying traffic on light-trail paths, falling rain over a reflective circuit-grid street, and a hidden koi-pond puzzle that wakes the whole block up.
-
-No external 3D models, textures, or audio files — everything is built from primitive/instanced geometry and the Web Audio API.
+A dense miniature cyberpunk city block built for the 3D Websites Hackathon: procedurally generated glowing towers, flickering neon signage, flying traffic on light-trail paths, falling rain over a reflective circuit-grid street, and a hidden koi-pond puzzle that wakes the whole block up. Everything is built from primitive/instanced geometry and the Web Audio API.
 
 ## Features
 
